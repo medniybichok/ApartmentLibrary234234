@@ -1,0 +1,6 @@
+C:\Users\307\source\repos\ApartmentLibrary\ApartmentLibrary\bin\Debug\ApartmentLibrary.dll
+C:\Users\307\source\repos\ApartmentLibrary\ApartmentLibrary\bin\Debug\ApartmentLibrary.pdb
+C:\Users\307\source\repos\ApartmentLibrary\ApartmentLibrary\obj\Debug\ApartmentLibrary.csproj.AssemblyReference.cache
+C:\Users\307\source\repos\ApartmentLibrary\ApartmentLibrary\obj\Debug\ApartmentLibrary.csproj.CoreCompileInputs.cache
+C:\Users\307\source\repos\ApartmentLibrary\ApartmentLibrary\obj\Debug\ApartmentLibrary.dll
+C:\Users\307\source\repos\ApartmentLibrary\ApartmentLibrary\obj\Debug\ApartmentLibrary.pdb
